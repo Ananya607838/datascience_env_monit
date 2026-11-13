@@ -3,7 +3,7 @@
 Bootstraps a synthetic GPP series and prints a 95% interval.
 
 ## Run
-Rscript scripts/python3 scripts/cluster_hello.py 200
+python3 scripts/cluster_hello.py 200
 
 ## Files
 scripts/  the analysis code
