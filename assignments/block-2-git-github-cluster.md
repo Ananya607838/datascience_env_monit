@@ -366,15 +366,15 @@ Submit these three things on ILIAS before Block 3:
 
 Tick everything before you submit:
 
-- [ ] My fork has my own `README.md` and a `.gitignore`
-- [ ] `git log --oneline` shows at least four commits of mine with clear messages
-- [ ] `git status` says the working tree is clean and my branch is up to date
-- [ ] I logged in to bwUniCluster with `ssh`
-- [ ] I cloned my fork into `$HOME` on the cluster
-- [ ] I created the workspace `envmon`
-- [ ] My job ran and the `.out` file shows a numeric Job ID
-- [ ] `docs/STORAGE.md` has my workspace path and expiry date, and the expiry date is in my calendar
-- [ ] A fresh clone runs with the commands in my README
+- [ x] My fork has my own `README.md` and a `.gitignore`
+- [ x] `git log --oneline` shows at least four commits of mine with clear messages
+- [ x] `git status` says the working tree is clean and my branch is up to date
+- [ x] I logged in to bwUniCluster with `ssh`
+- [ x] I cloned my fork into `$HOME` on the cluster
+- [ x] I created the workspace `envmon`
+- [ x] My job ran and the `.out` file shows a numeric Job ID
+- [ x] `docs/STORAGE.md` has my workspace path and expiry date, and the expiry date is in my calendar
+- [ x] A fresh clone runs with the commands in my README
 
 Three rules to keep:
 
